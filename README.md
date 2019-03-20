@@ -1,7 +1,7 @@
 # LINE_FriendsRegist_kintone
 
-LINE Botの友達情報をkintoneへ登録するプログラムです。
-Node.jsで書いています。詳しくはQiita記事をご覧ください。
+LINE Botの友達情報をkintoneへ登録するプログラムです。<br>
+Node.jsで書いています。詳しくはQiita記事をご覧ください。<br>
 
 ## Update
 
