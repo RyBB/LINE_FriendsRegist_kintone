@@ -9,4 +9,4 @@ Node.jsで書いています。詳しくはQiita記事をご覧ください。<b
 
 ## Qiita
 
-[LINE Botの友達情報をkintoneへ登録してみた]()
+[LINE Botの友達情報をkintoneへ登録してみた](https://qiita.com/RyBB/items/23221bafd8231579b396)
